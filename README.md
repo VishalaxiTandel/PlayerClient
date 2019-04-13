@@ -1,4 +1,4 @@
-## PlayerClient
+# PlayerClient
 Some details of the project in terms of functionalities of the player controls:
 
 1. First run the server app - AudioServer
